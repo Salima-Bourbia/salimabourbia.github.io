@@ -1,0 +1,26 @@
+{
+	"name": " Salima Bourbia",
+	"title": "PhD student",
+	"abstract": "I am a PhD student at Mohammed V University in Rabat, Morocco and ISEN Yncréa Ouest/Nantes in Carquefou, France. My research interests include 3D computer vision, machine/deep learning, and mainly the evaluation of the quality of 3D point clouds.",
+	"image": "imgs/salima.jpg",
+	"keywords": ["3D point cloud quality assessment", "Point cloud processing", "Computer vision ", "machine/deep learning"],
+	"contact": 
+	{
+		"employer": "ISEN Yncréa Ouest",
+		"street": "33 Q , Chemin du Champ de Manœuvres",
+		"city": "44470 Carquefou, France",
+		"email": "salima.bourbia@isen-ouest.yncrea.fr ",
+		"phone": "+33 (0)6 06 07 80 64"	
+	},
+	"links":
+	{
+		"linkedin": "https://www.linkedin.com/in/bourbia-salima-2828b718a/",
+		"scholar": "https://scholar.google.com/citations?user=kjMDcpMAAAAJ&hl=en&oi=ao",
+		"dblp": "https://dblp.org/pid/296/0146.html}{https://dblp.org/pid/296/0146.html",
+		// "twitter": "https://twitter.com/ayoub_karine",
+		"researchgate": "https://www.researchgate.net/profile/Salima-Bourbia",
+		// "orcid": "https://orcid.org/0000-0002-9304-4613",
+		// "publons": "https://publons.com/researcher/1627569/ayoub-karine/",
+		"github": "https://github.com/Salima-Bourbia"
+	}
+}
