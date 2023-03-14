@@ -292,6 +292,7 @@ function getPublications(){
     .catch(error => console.log("Erreur !"));
 }
 function showJournals(data){
+  console.log("======================================================")
   content = "<ol>";
   for (let i = 0; i < data.numFound; i++) {
     if (data.docs[i].docType_s=="ART"){
