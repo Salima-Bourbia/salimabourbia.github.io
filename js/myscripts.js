@@ -70,7 +70,7 @@ $(document).ready(function(){
 				}
 				employ_string = employ_string + '<a href="' + data.background[i].employer_links[e] + '" target="_blank"> ' + data.background[i].employer[e] + '</a>';
 			}
-			$("#background").append('<li><B>' + data.background[i].date + ':</B> ' + data.background[i].position + ' at ' + employ_string + '</li>');
+			//$("#background").append('<li><B>' + data.background[i].date + ':</B> ' + data.background[i].position + ' at ' + employ_string + '</li>');
 		}
 
 		// education
