@@ -92,7 +92,7 @@ $(document).ready(function(){
 // 		// responsabilities
 // 		for (var i=0; i<data.responsabilities.length; i++){
 // 			$("#responsabilities").append('<li>'+ data.responsabilities[i] + '</li>');
-		//}
+//		}
 	});
 });
 
