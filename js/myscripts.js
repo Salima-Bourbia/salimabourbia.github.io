@@ -89,9 +89,9 @@ $(document).ready(function(){
 // 			$("#education").append('<li><B>' + data.education[i].date + ':</B> ' + data.education[i].degree + ' at ' + school_string + '</li>');
 		}
 
-		// responsabilities
-		for (var i=0; i<data.responsabilities.length; i++){
-			$("#responsabilities").append('<li>'+ data.responsabilities[i] + '</li>');
+// 		// responsabilities
+// 		for (var i=0; i<data.responsabilities.length; i++){
+// 			$("#responsabilities").append('<li>'+ data.responsabilities[i] + '</li>');
 		}
 	});
 });
