@@ -234,7 +234,7 @@ $(document).ready(function () {
 });
 
 // Function to load teaching from json
-$(document).ready(function(){
+/*$(document).ready(function(){
 	$.getJSON("jsons/teaching.json", function(data){
 		// institutions
 		for (var i=0; i<data.institutions.length; i++){
@@ -255,7 +255,7 @@ $(document).ready(function(){
 			$(list_id).append('<li>' + data.courses[i] + '</li>');
 		}
 	});
-});
+});*/
 
 
 // Function to load demos from json
