@@ -224,7 +224,7 @@ $(document).ready(function () {
 });
 $(document).ready(function () {
   $.getJSON("jsons/services.json", function (data) {
-    $("#programcomittee").append(data.programcomittee);
+    //$("#programcomittee").append(data.programcomittee);
   });
 });
 $(document).ready(function () {
