@@ -219,7 +219,7 @@ $(document).ready(function () {
 });
 $(document).ready(function () {
   $.getJSON("jsons/services.json", function (data) {
-    $("#reviewerConferences").append(data.reviewerConferences);
+//     $("#reviewerConferences").append(data.reviewerConferences);
   });
 });
 $(document).ready(function () {
