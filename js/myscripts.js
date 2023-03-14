@@ -86,7 +86,7 @@ $(document).ready(function(){
 				}
 				school_string = school_string + '<a href="' + data.education[i].school_links[e] + '" target="_blank"> ' + data.education[i].school[e] + '</a>';
 			}
-			$("#education").append('<li><B>' + data.education[i].date + ':</B> ' + data.education[i].degree + ' at ' + school_string + '</li>');
+// 			$("#education").append('<li><B>' + data.education[i].date + ':</B> ' + data.education[i].degree + ' at ' + school_string + '</li>');
 		}
 
 		// responsabilities
@@ -245,7 +245,7 @@ $(document).ready(function(){
 			if (data.institutions[i].info != ''){
 				school_string = school_string + ' (' + data.institutions[i].info + ')';
 			}
-			$("#institutions").append('<li><B>' + data.institutions[i].date + ':</B> ' + school_string + ', ' + data.institutions[i].department + '.</li>');
+// 			$("#institutions").append('<li><B>' + data.institutions[i].date + ':</B> ' + school_string + ', ' + data.institutions[i].department + '.</li>');
 		}
 
 		// courses
